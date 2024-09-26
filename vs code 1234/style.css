@@ -37,7 +37,7 @@
 
 .site-header {
     color:#000000;
-    background-color: #3d3a3aa3;
+    background-color: #eeececa3;
 }
 
 .content h2 {
@@ -106,3 +106,7 @@ a:hover {
 
 
 
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
