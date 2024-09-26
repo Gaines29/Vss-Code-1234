@@ -1,0 +1,112 @@
+.abd {
+    background-color:  #3d3a3a7a;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.bcd {
+   color: #000000;
+    background-color:#6d6a6a;
+}
+
+
+
+.site-footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.site-main {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #ffffff4d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.site-nav {
+    text-align: center;
+    Background-color: rgb(126, 126, 136);
+}
+
+.site-header {
+    color:#000000;
+    background-color: #eeececa3;
+}
+
+.content h2 {
+    color: #000;
+    font-style: italic;
+}
+body {
+    font-family: Algerian, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    padding: 20px;
+    margin: 20px 0;
+    margin-top: 100px;
+    background-color: #b9aeae4d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+    background-image: url(ai.webp);
+}
+body {
+    background-color: #bab4b4;
+}
+
+.site-nav ul {
+    list-style: none; /* Remove bullet points */
+  }
+
+  .main-header {
+    top: 0;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    box-sizing: border-box;
+  }
+
+  .abc {
+    text-align: center;
+  }
+
+a {
+    color: #9e0909;
+}
+
+a:hover {
+    color: #ae6709;
+}
+
+.body-2 {
+    font-family: Algerian, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    padding: 20px;
+    margin: 20px 0;
+    margin-top: 100px;
+    background-color: #b9aeae4d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; 
+    background-image: img src= "";
+    /* background-image: url('Cortana.jpg'); */
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
